@@ -1,0 +1,51 @@
+nav .nav_bar{
+    margin-top: 30px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.all_navbar_left.twiter{
+margin-top: 10px;
+gap: 10px;
+color:antiquewhite;
+font-size: 30px;
+margin-right: 15px;
+}
+.all_navbar_left .face{
+font-size: 25px;
+}
+nav .navbar_orders .navbar_orders_list ul li{
+    list-style: none;
+    
+}
+nav .navbar_orders .navbar_orders_list ul {
+    display: flex;
+    gap: 20px;
+}
+nav .navbar_orders {
+    display: flex;
+    justify-content: space-between;
+}
+nav .navbar_search input {
+width: 503px;
+}
+nav .navbar_search {
+    position: relative;
+    
+}
+nav .navbar_search .search_icon{
+    position: absolute;
+    top: 3px;
+    right: 25px;
+}
+nav .icon_up {
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    height: 22px;
+    position: absolute;
+    top: 18px;
+    width: 30px;
+    left: 1386px;
+}
